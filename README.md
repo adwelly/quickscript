@@ -1,6 +1,6 @@
 # quickscript
 
-FIXME: description
+FIXME: transcription and typesetting of quickscript
 
 ## Installation
 
