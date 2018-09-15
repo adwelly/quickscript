@@ -82,7 +82,7 @@
    "one" [:way :utter :no]
    "only" [:ox :no :low]
    "or" [:ox :roe]
-   "other" [:utter :the :utter :roe]
+   "other" [:utter :they :utter :roe]
    "our" [:out :roe]
    "out" [:out :tea]
 
@@ -94,10 +94,10 @@
    "so" [:see]
    "some" [:see :utter :may]
 
-   "take" [:tea :eight :kay]
+   "take" [:tea :eight :key]
    "tell" [:tea :et :low]
    "than" [:they :at :no]
-   "that" [:they :at :tea]
+   "that" [:they :tea]
    "the" [:they]
    "their" [:they :eight :roe]
    "them" [:they :et :may]
@@ -115,19 +115,20 @@
    "use" [:ye :utter :zoo]
 
    "very" [:vie :roe]
-   })
 
-;want
-;way
-;we
-;well
-;what
-;when
-;which
-;who
-;will
-;with
-;would
-;year
-;you
-;your
+   "want" [:way :ox :no :tea]
+   "way" [:way :eight]
+   "we" [:way]
+   "well" [:way :et :low]
+   "what" [:why]
+   "when" [:why :et :no]
+   "which" [:cheer]
+   "who" [:he :ooze]
+   "will" [:low]
+   "with" [:way :it]
+   "would" [:way :day]
+
+   "year" [:ye :eat :utter :roe]
+   "you" [:ye :ooze]
+   "your" [:ye :roe]
+   })
